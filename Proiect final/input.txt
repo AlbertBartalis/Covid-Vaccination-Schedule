@@ -1,0 +1,10 @@
+Ava_Braun 38 9 Alba
+Nicholas_Knott 60 9 Arad
+Alisa_Whitley 85 1 Braila
+Naseem_Akhtar 56 7 Buzau
+Lylah_Mcknight	26 7 Resita
+Milton_Barlow 92 5 Calarasi
+Patience_Pham 98 8 Cluj-Napoca
+Demi-Lee_Roach 32 6 Constanta
+Rukhsar_Tanner 82 7 Bistrita
+
