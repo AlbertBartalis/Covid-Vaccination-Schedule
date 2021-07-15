@@ -1,0 +1,2 @@
+# Covid-Vaccination-Schedule
+This program schedules people for COVID-19 vaccination using a priority queue. The priority is determined based on the sanitary condition and age of the person. The data structure is implemented using a linked list. The reason behind using a linked list instead of binary heap is that this application is meant for a private clinic, where the number of patients is not to big.  The sanitary condition variable is calculated based on chronic diseases and other conditions of a person.
